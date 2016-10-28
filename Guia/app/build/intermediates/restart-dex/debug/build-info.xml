@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="79576949758331"
+    token="373202001186649282" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="76335334680776"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Blan-kiss\Documents\GitHub\repo\Guia\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="79298770997140"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Blan-kiss\Documents\GitHub\repo\Guia\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="79576949758331" />
+
+</instant-run>
