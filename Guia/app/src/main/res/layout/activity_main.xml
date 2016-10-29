@@ -23,7 +23,6 @@
         android:theme="@style/AppTheme.AppBarOverlay">
 
         <TextView
-            android:text="BIENVENIDOS TURISMO COTOPAXI"
             android:background="@android:color/holo_blue_light"
 
 
