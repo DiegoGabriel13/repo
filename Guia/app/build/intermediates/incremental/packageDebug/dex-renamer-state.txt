@@ -1,7 +1,0 @@
-#Fri Oct 28 15:52:15 COT 2016
-base.0=C\:\\Users\\Blan-kiss\\Documents\\GitHub\\repo\\Guia\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f0fdd877494e8af3e492a17bdc8bbf627fdefd68
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Blan-kiss\\Documents\\GitHub\\repo\\Guia\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_072586e6611f069748d0c969a27b6229d4520778\\classes.dex
-base.1=C\:\\Users\\Blan-kiss\\Documents\\GitHub\\repo\\Guia\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_072586e6611f069748d0c969a27b6229d4520778
-file.0=C\:\\Users\\Blan-kiss\\Documents\\GitHub\\repo\\Guia\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f0fdd877494e8af3e492a17bdc8bbf627fdefd68\\classes.dex
