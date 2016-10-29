@@ -30,7 +30,8 @@
             android:layout_height="50dp"
             android:id="@+id/textView"
             android:textColorLink="@android:color/background_dark"
-            android:textColorHint="@android:color/background_dark" />
+            android:textColorHint="@android:color/background_dark"
+            android:text="BIENVENIDOS TURISMO COTOPAXI" />
 
         <android.support.design.widget.TabLayout
             android:id="@+id/tabs"
