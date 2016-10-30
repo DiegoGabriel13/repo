@@ -1,5 +1,6 @@
 package com.example.kenshi.guia;
 
+import android.content.Intent;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
@@ -104,6 +105,12 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
+
+    }
+
+    public void pasa(View s){
+        Intent pa = new Intent(this, Canton.class);
+        startActivity(pa);
     }
 
     /**
@@ -128,7 +135,7 @@ public class MainActivity extends AppCompatActivity {
                 case 2:
                     Tab3 tabb3 = new Tab3();
                     return tabb3;
-            }
+                            }
             return null;
         }
 
@@ -152,3 +159,4 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 }
+

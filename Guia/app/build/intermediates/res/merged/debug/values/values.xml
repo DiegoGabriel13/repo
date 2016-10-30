@@ -508,6 +508,8 @@
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="title_activity_canton">Canton</string>
+    <string name="title_activity_mana">Mana</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
