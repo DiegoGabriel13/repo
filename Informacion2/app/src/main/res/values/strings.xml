@@ -4,6 +4,7 @@
     <string name="section_format">Hello World from section: %1$d</string>
 
 
-        <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_contacto">Contacto</string>
 
 </resources>

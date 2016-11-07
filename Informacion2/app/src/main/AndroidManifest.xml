@@ -18,7 +18,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Naturales"></activity>
+        <activity android:name=".Naturales" />
+        <activity
+            android:name=".Contacto"
+            android:label="@string/title_activity_contacto"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
